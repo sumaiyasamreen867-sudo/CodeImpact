@@ -149,13 +149,6 @@ It also demonstrated how static analysis, dependency relationships, and test res
 
 ---
 
-## Hackathon Value
-
-CodeImpact addresses a practical software-engineering problem: understanding the consequences of a code change without manually tracing the entire codebase.
-
-By connecting **code changes, dependencies, relevant tests, test results, and AI reasoning**, CodeImpact provides developers with a unified view of the potential impact of their changes.
-
----
 
 ## Future Enhancements
 
@@ -177,6 +170,6 @@ CodeImpact was developed as a hackathon project to explore how **AI and static c
 
 ## Author
 
-**CodeImpact Team**
+**SP3 Team**
 
 AI-Powered Code Change Impact & Test Intelligence
